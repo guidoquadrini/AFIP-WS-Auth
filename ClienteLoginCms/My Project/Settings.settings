@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClienteLoginCms_Wsaa_LoginCMSService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://wsaahomo.afip.gov.ar/ws/services/LoginCms</Value>
+    </Setting>
+    <Setting Name="DEFAULT_CERTSIGNER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\CERT_AFIP\facco2_wsfe.pfx</Value>
+    </Setting>
+    <Setting Name="DEFAULT_PROXY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEFAULT_PROXY_PASSWORD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEFAULT_PROXY_USER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DEFAULT_SERVICIO" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wsfe</Value>
+    </Setting>
+    <Setting Name="DEFAULT_TA_PATH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\WSAA\</Value>
+    </Setting>
+    <Setting Name="DEFAULT_URLWSAAWSDL" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://wsaa.afip.gov.ar/ws/services/LoginCms?WSDL</Value>
+    </Setting>
+    <Setting Name="DEFAULT_VERBOSE" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MetodoGeneracionDeTicket" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Binario</Value>
+    </Setting>
+    <Setting Name="ModoProduccion" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="URLWSAA_Produccion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://wsaa.afip.gov.ar/ws/services/LoginCms</Value>
+    </Setting>
+    <Setting Name="URLWSAA_Testing" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://wsaahomo.afip.gov.ar/ws/services/LoginCms</Value>
+    </Setting>
+    <Setting Name="RutaBinario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\WSAA\Binario\ClienteLoginCms_VB.exe</Value>
+    </Setting>
+    <Setting Name="RutaBinario2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\WSAA\Binario\ClienteLoginCms_VB.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
